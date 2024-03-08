@@ -1,0 +1,500 @@
+
+
+/*==========MAIN==========*/
+
+#main{
+    margin-top: 0px;
+    background: url(images/blurmall2.jpg);
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+    background-size:cover;
+    position: relative;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+ 
+p{
+    text-align: right;
+    font-weight: 600;
+    top: 50%;
+    left: 50%;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+}
+
+.img{
+    width: 100%;
+}
+
+/*========== MAIN-HOME ========*/
+body {
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;}
+
+/*========== Top-TABS ========*/
+
+#tabs-top{
+    position:static;
+    top     : 55px;
+    left    : 0;
+    z-index : 500;
+    width   : 100%;
+    height  : 50px;
+    background-color: #242331;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+#tabs-top a{
+    float   : left;
+    display : block;
+    width   : 33%;
+    height  :35px;
+    font-weight : 700;
+    color       : #DDCA7D;
+    text-align  : center;
+    text-decoration : none;
+    padding-top     : 12px;  
+}
+
+/*========== BOTTOM-TAB ========*/
+
+#tabs-bottom{
+    position : fixed;
+    bottom   : 0;
+    left     : 0;
+    z-index  : 500;
+    width    : 100%;
+    height   : 40px;
+    background-color: #242331;
+}
+
+#tabs-bottom a{
+   float : left;
+   display : block;
+   width : 33%;
+   height : 35px;
+   font-weight : 700;
+   color       : #DDCA7D;
+   text-align  : center;
+   text-decoration : none;
+   padding-top     : 12px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+
+h1{
+    position:static ;
+    z-index: 500; 
+    padding-top: 0px;}
+
+/*==========INFO-BOX=========*/
+
+#movies{
+    margin-top: 0px;
+    background: url(images/blurmall2.jpg);
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+    background-size:cover;
+    position: relative;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom:100px ;
+
+}
+
+body h3 {
+    color: #4E937A;
+    font-size: 20px;
+  }
+
+p1{
+    font-weight: 340;
+    font-size: 16px;
+    color: black;
+    text-align:center;
+    padding:10px;
+
+}
+
+h3{
+    font-weight: 600;
+    font-size: 25px;
+    color:  #242331;
+    text-align:center ;
+    font-family:'Times New Roman', Times, serif ;
+
+}
+
+.info-box img{
+    height: 90px;
+    margin: 10px;
+    float: left;
+    margin: 0;
+}
+/*==========INFO-BOX-FULL=========*/
+
+#info-box-full{
+    background: rgba(255,255,255,.8);
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px
+ }
+ 
+ #info-box-full img{
+     width : 100%;
+ }
+ 
+ #info-box-full h3{
+     text-align : center;
+ }
+
+ p2{
+
+    font-weight: 250px;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+ }
+
+ /*==========INFO-BOX-=========*/
+ a.info-box{
+    text-decoration: none;
+    background: rgba(255, 255, 255, .8);
+    width: 90%;
+    height: 90px;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 1px;
+    }
+
+    body h2 {
+        color: #4E937A;
+        font-size: 20px;
+        text-align : center;
+        font-family: 'Times New Roman', Times, serif;}
+       
+          p {
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          
+    .info-box img{
+        height: 70px;
+        margin: 10px;
+        float:left ;
+    }
+
+    .info-box p{
+        margin:0px;
+        padding: 0;
+        width: 100%;
+        color:#131313;
+        text-align: right;
+    }
+    
+    .info-box img.right{
+        float: right;
+        margin-top: 25px;
+        height: 40px;
+    }
+
+    body{
+        padding: 0;
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+/*==========STORE-PAGES=========*/
+
+#main{
+    margin-top: 0px;
+    background: url(images/blurmall2.jpg);
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+    background-size:cover;
+   
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+/*========== HEADINGS =========*/
+h1{ 
+    background-color:#533E2D !important;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 2em 0;
+    margin-bottom: 1em;
+    color: #DDCA7D;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+    background-color:#4E937A !important;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 2em 0;
+    margin-bottom: 1em;
+    color: #F4E285;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*==========STORE-IMAGES-FURNITURE=========*/
+#content{
+    background: rgba(255,255,255,.8);
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 10px
+ }
+ 
+#ok1{
+    height: 300px;
+    width: auto;
+    margin:auto;
+    border: 2px solid #242331;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #ok2{
+    height: 300px;
+    width: 45%;
+    margin: auto;
+    border: 2px solid #242331;
+  }
+
+  #ok3{
+    height: 300px;
+    width: 45%;
+    margin: 0 auto;
+    border: 2px solid #242331;
+    float:right;
+  }
+
+  /*==========STORE-IMAGES-CHECKERS=========*/
+
+
+  #check1{
+    height: 300px;
+    width: auto;
+    margin:auto;
+    border: 2px solid #242331;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #check2{
+    height: 300px;
+    width: 45%;
+    margin: auto;
+    border: 2px solid #242331;
+  }
+
+  #check3{
+    height: 300px;
+    width: 45%;
+    margin: 0 auto;
+    border: 2px solid #242331;
+    float:right;
+  }
+
+ /*==========STORE-IMAGES-MRPRICE=========*/
+
+ 
+ #mr1{
+    height: 300px;
+    width: 100%;
+    margin:auto ;
+    border: 2px solid #242331;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #mr2{
+    height: 300px;
+    width: 45%;
+    margin: auto;
+    border: 1px solid #242331;
+  }
+
+  #mr3{
+    height: 300px;
+    width: 45%;
+    margin: 0 auto;
+    border: 2px solid  #242331 ;
+    float:right;
+  }
+
+ /*==========STORE-IMAGES-H&M=========*/
+
+ #handm1{
+    height: 300px;
+    width: 100%;
+    margin:auto ;
+    border: 2px solid #242331;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #handm2{
+    height: 300px;
+    width: 45%;
+    margin: auto;
+    border: 2px solid #242331;;
+  }
+
+  #handm3{
+    height: 300px;
+    width: 45%;
+    margin: 0 auto;
+    border: 2px solid #242331;;
+    float:right;
+  }
+
+ /*==========STORE-IMAGES-NANDOS=========*/
+
+ #nandos1{
+    height: 300px;
+    width: 100%;
+    margin:auto ;
+    border: 2px solid #242331;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  #nandos2{
+    height: 300px;
+    width: 45%;
+    margin: auto;
+    border: 2px solid #242331;;
+  }
+
+  #nandos3{
+    height: 300px;
+    width: 45%;
+    margin: 0 auto;
+    border: 2px solid #242331;;
+    float:right;
+  }
+
+ /*==========STORE-IMAGES-STEERS=========*/
+
+ #steers1{
+    height: 300px;
+    width: 100%;
+    margin:auto ;
+    border: 2px solid #242331;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ #steers2{
+    height: 300px;
+    width: 45%;
+    margin: auto;
+    border: 2px solid #242331;;
+  }
+
+  #steers3{
+    height: 300px;
+    width: 45%;
+    margin: 0 auto;
+    border: 2px solid #242331;
+    float:right;
+  }
+
+   /*==========HOME-SALES=========*/
+
+   #home1{
+    height: 300px;
+    width: 100%;
+    margin:auto ;
+    border: 2px solid #242331;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #home2{  
+    height: 300px;
+    width: 51%;
+    margin: auto;
+    border: 2px solid #242331;;
+  }
+
+  #home3{
+    height: 300px;
+    width: 48%;
+    margin: 0 auto;
+    border: 2px solid #242331;
+    float:right;
+  }
+
+/*========== FORM =========*/
+
+
+input{
+    width:100%;
+    height:25px;
+    margin: 12px 0;
+    border:1px solid #929292;
+}
+
+textarea{ 
+    width:100%;
+    height:65px;
+    margin:12px 0;
+    border: 1px solid #929292
+}
+
+.button{
+    display:block;
+    width:100%;
+    background-color: #4E937A;
+    text-decoration: none;
+    text-align: center;
+    color: #F4E285 ;
+    font-size:16px;
+    font-weight:600;
+    margin:12px 0;
+    padding:8px 0;
+
+}
+h5{
+  color: #533E2D;
+        font-size: 30px;
+        text-align : center;
+        font-family: 'Times New Roman', Times, serif;
+       
+}
